@@ -33,3 +33,5 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
 [**Moving zeros to the end**](movingZerosToTheEnd.js)
 - :crossed_swords:
 [**Valid parentheses**](validParentheses.js)
+- :crossed_swords:
+[**Directions reduction**](directionsReduction.js)
