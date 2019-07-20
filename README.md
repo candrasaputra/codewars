@@ -25,3 +25,5 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
 ## 5 Kyu
 - :crossed_swords:
 [**Double cola**](doubleCola.js)
+[**Simple pig latin**](simplePigLatin.js)
+[**Human readable time**](humanReadableTime.js)
