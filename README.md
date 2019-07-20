@@ -40,3 +40,6 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
 [**Snail**](4kyu/snail.js)
 - :crossed_swords:
 [**Human readable duration format**](4kyu/humanReadableDurationFormat.js)
+- :crossed_swords:
+[**Strip comments**](4kyu/stripComments.js)
+
