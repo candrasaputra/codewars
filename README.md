@@ -29,3 +29,5 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
 [**Simple pig latin**](simplePigLatin.js)
 - :crossed_swords:
 [**Human readable time**](humanReadableTime.js)
+- :crossed_swords:
+[**Moving zeros to the end**](movingZerosToTheEnd.js)
