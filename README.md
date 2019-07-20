@@ -31,3 +31,5 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
 [**Human readable time**](humanReadableTime.js)
 - :crossed_swords:
 [**Moving zeros to the end**](movingZerosToTheEnd.js)
+- :crossed_swords:
+[**Valid parentheses**](validParentheses.js)
