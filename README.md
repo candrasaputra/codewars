@@ -35,3 +35,7 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
 [**Valid parentheses**](validParentheses.js)
 - :crossed_swords:
 [**Directions reduction**](directionsReduction.js)
+
+## 4 Kyu
+- :crossed_swords:
+[**Snail**](snail.js)
