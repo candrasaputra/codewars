@@ -12,30 +12,29 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
 ## 7 Kyu
 - :crossed_swords:
 [**Is this a triangle ?**](7kyu/isThisATriangle.js)
-
 - :crossed_swords:
-[**Get the middle character**](getMiddleCharacter.js)
+[**Get the middle character**](7kyu/getMiddleCharacter.js)
 
 ## 6 Kyu
 - :crossed_swords:
-[**Bit counting**](bitCounting.js)
+[**Bit counting**](6kyu/bitCounting.js)
 - :crossed_swords:
-[**Find the unique number**](findUniqueNumber.js)
+[**Find the unique number**](6kyu/findUniqueNumber.js)
 
 ## 5 Kyu
 - :crossed_swords:
-[**Double cola**](doubleCola.js)
+[**Double cola**](5kyu/doubleCola.js)
 - :crossed_swords:
-[**Simple pig latin**](simplePigLatin.js)
+[**Simple pig latin**](5kyu/simplePigLatin.js)
 - :crossed_swords:
-[**Human readable time**](humanReadableTime.js)
+[**Human readable time**](5kyu/humanReadableTime.js)
 - :crossed_swords:
-[**Moving zeros to the end**](movingZerosToTheEnd.js)
+[**Moving zeros to the end**](5kyu/movingZerosToTheEnd.js)
 - :crossed_swords:
-[**Valid parentheses**](validParentheses.js)
+[**Valid parentheses**](5kyu/validParentheses.js)
 - :crossed_swords:
-[**Directions reduction**](directionsReduction.js)
+[**Directions reduction**](5kyu/directionsReduction.js)
 
 ## 4 Kyu
 - :crossed_swords:
-[**Snail**](snail.js)
+[**Snail**](4kyu/snail.js)
