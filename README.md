@@ -8,6 +8,8 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
 [**Get ascii value of character**](8kyu/getAsciiValueOfCharacter.js)
 - :crossed_swords:
 [**Square(n) sum**](8kyu/squareSum.js)
+- :crossed_swords:
+[**Adults only (SQL for Beginners #1) (SQL)**](8kyu/adultsOnly.sql)
 
 ## 7 Kyu
 - :crossed_swords:
