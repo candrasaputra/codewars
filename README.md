@@ -36,6 +36,8 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
 [**Valid parentheses**](5kyu/validParentheses.js)
 - :crossed_swords:
 [**Directions reduction**](5kyu/directionsReduction.js)
+- :crossed_swords:
+[**Relational division: Find all movies two actors cast in together (SQL)**](5kyu/findAllMovies.js)
 
 ## 4 Kyu
 - :crossed_swords:
