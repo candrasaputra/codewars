@@ -22,6 +22,8 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
 [**Bit counting**](6kyu/bitCounting.js)
 - :crossed_swords:
 [**Find the unique number**](6kyu/findUniqueNumber.js)
+- :crossed_swords:
+[**Find the missing letter**](6kyu/findTheMissingLetter.js)
 
 ## 5 Kyu
 - :crossed_swords:
