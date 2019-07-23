@@ -41,7 +41,9 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
 - :crossed_swords:
 [**Relational division: Find all movies two actors cast in together (SQL)**](5kyu/findAllMovies.sql)
 - :crossed_swords:
-[**SQL Basics: Group By Day (SQL)**](5kyu/sqlBasicsGroupByDay.sql)
+[**SQL basics: group by day (SQL)**](5kyu/sqlBasicsGroupByDay.sql)
+- :crossed_swords:
+[**Calculating running total (SQL)**](5kyu/calculatingRunningTotal.sql)
 
 ## 4 Kyu
 - :crossed_swords:
