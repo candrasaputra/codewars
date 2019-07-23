@@ -46,7 +46,8 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
 [**Calculating running total (SQL)**](5kyu/calculatingRunningTotal.sql)
 - :crossed_swords:
 [**SQL basics: simple VIEW (SQL)**](5kyu/sqlBasicsSimpleVIEW.sql)
-
+- :crossed_swords:
+[**SQL basics: simple PIVOTING data (SQL)**](5kyu/sqlBasicsSimplePIVOTINGdata.sql)
 
 ## 4 Kyu
 - :crossed_swords:
