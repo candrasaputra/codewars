@@ -39,7 +39,9 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
 - :crossed_swords:
 [**Directions reduction**](5kyu/directionsReduction.js)
 - :crossed_swords:
-[**Relational division: Find all movies two actors cast in together (SQL)**](5kyu/findAllMovies.js)
+[**Relational division: Find all movies two actors cast in together (SQL)**](5kyu/findAllMovies.sql)
+- :crossed_swords:
+[**SQL Basics: Group By Day (SQL)**](5kyu/sqlBasicsGroupByDay.sql)
 
 ## 4 Kyu
 - :crossed_swords:
