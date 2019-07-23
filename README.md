@@ -58,3 +58,5 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
 [**Strip comments**](4kyu/stripComments.js)
 - :crossed_swords:
 [**Next bigger number with the same digits**](4kyu/nextBiggerNumber.js)
+- :crossed_swords:
+[**Twice linear**](4kyu/twiceLinear.js)
