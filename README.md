@@ -44,6 +44,9 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
 [**SQL basics: group by day (SQL)**](5kyu/sqlBasicsGroupByDay.sql)
 - :crossed_swords:
 [**Calculating running total (SQL)**](5kyu/calculatingRunningTotal.sql)
+- :crossed_swords:
+[**SQL basics: simple VIEW (SQL)**](5kyu/sqlBasicsSimpleVIEW.sql)
+
 
 ## 4 Kyu
 - :crossed_swords:
