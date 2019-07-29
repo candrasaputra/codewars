@@ -68,3 +68,5 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
   [**Next bigger number with the same digits**](4kyu/nextBiggerNumber.js)
 - :crossed_swords:
   [**Twice linear**](4kyu/twiceLinear.js)
+- :crossed_swords:
+  [**Adding big numbers**](4kyu/addingBigNumbers.js)
