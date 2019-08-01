@@ -70,3 +70,5 @@ Codewars is a place where you can solve coding puzzles and then feel pretty smug
   [**Twice linear**](4kyu/twiceLinear.js)
 - :crossed_swords:
   [**Adding big numbers**](4kyu/addingBigNumbers.js)
+- :crossed_swords:
+  [**Permutations**](4kyu/permutations.js)
